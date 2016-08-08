@@ -1,0 +1,30 @@
+_repo: Frontier-Stories_12419
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'California -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: 'Flip: a California romance -- Found at Blazing Star -- In the Carquinez
+  woods -- At the Mission of San Carmel -- A blue-grass Penelope -- Left out on Lone
+  Star Mountain -- A ship of ''49.'
+title: Frontier Stories
+url: http://www.gutenberg.org/ebooks/12419
